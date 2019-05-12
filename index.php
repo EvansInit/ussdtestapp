@@ -1,7 +1,6 @@
 <?php
 // Reads the variables sent via POST
 
-echo "this is a ussd test";
 
 $sessionId   = $_POST["sessionId"];
 $serviceCode = $_POST["serviceCode"];

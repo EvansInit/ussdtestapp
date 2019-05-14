@@ -3,6 +3,8 @@
 require 'vendor/autoload.php';
 use AfricasTalking\SDK\AfricasTalking;
 
+echo "This site is active.";
+
 // Set your app credentials
 $username   = "sandbox";
 $apikey     = "cfbc4b79dc3fa771b945d6bea37b776115a5916fc20674450470529559c670ec";

@@ -1,6 +1,6 @@
 <?php
 //import SDK
-require 'vendor/autoload.php';
+//require 'vendor/autoload.php';
 use AfricasTalking\SDK\AfricasTalking;
 
 echo "This site is active.";
